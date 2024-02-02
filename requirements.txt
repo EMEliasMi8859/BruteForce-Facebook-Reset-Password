@@ -1,0 +1,2 @@
+selenium: v^"4.13.0"
+GeckODriver: v^"0.33.0"
